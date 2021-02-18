@@ -1,0 +1,74 @@
+<Canvas Height="816" Name="Workspace" Width="1056" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<!-- Page Page-1 -->
+	<Canvas Width="1056" Height="816" Name="D">
+		<Canvas.Background>
+			<SolidColorBrush Color="#FFFFFFFF"/>
+		</Canvas.Background>
+		<Canvas Tag="_1" Name="_1" RenderTransform="1, 0, 0, 1, 192, -612">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 0.460798, 2.630389">
+				<Path Name="S_1_G0" StrokeThickness="1" StrokeDashCap="Square" StrokeEndLineCap="Square"
+						StrokeStartLineCap="Square" Data="F0 M0 780 L48 744 L96 780 L48 816 L0 780 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#3F5B9BD5"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#3F5B9BD5"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_1_G0" StrokeThickness="1" StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square"
+					Data="F0 M0 780 L48 744 L96 780 L48 816 L0 780 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FF41719C"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<SolidColorBrush Color="#FF4F87BB"/>
+				</Path.Fill>
+			</Path>
+		</Canvas>
+		<Canvas Tag="_2" Name="_2" RenderTransform="1, 0, 0, 1, 348, -396">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 0.460798, 2.630389">
+				<Rectangle Canvas.Left="-0.16667" Canvas.Top="743.83" Height="72.333" Name="S_2_G0_P0" Width="96.333"
+						StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+					<Rectangle.Stroke>
+						<SolidColorBrush Color="#385B9BD5"/>
+					</Rectangle.Stroke>
+					<Rectangle.Fill>
+						<SolidColorBrush Color="#385B9BD5"/>
+					</Rectangle.Fill>
+				</Rectangle>
+			</Canvas>
+			<Rectangle Canvas.Left="-0.16667" Canvas.Top="743.83" Height="72.333" Name="_2_G0_P0" Width="96.333"
+					StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square">
+				<Rectangle.Stroke>
+					<SolidColorBrush Color="#FFC8C8C8"/>
+				</Rectangle.Stroke>
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FF5B9BD5"/>
+				</Rectangle.Fill>
+			</Rectangle>
+		</Canvas>
+		<Canvas Tag="_3" Name="_3" RenderTransform="1, 0, 0, 1, 852, -444">
+			<Canvas Tag="Shdw" RenderTransform="1, 0, 0, 1, 0.460798, 2.630389">
+				<Path Name="S_3_G0" StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square"
+						StrokeStartLineCap="Square" Data="F0 M9 744 L96 744 A76.5 76.5 -180 0 0 96 816 L9 816 A76.5 76.5 0 0 1 9 744 Z">
+					<Path.Stroke>
+						<SolidColorBrush Color="#385B9BD5"/>
+					</Path.Stroke>
+					<Path.Fill>
+						<SolidColorBrush Color="#385B9BD5"/>
+					</Path.Fill>
+				</Path>
+			</Canvas>
+			<Path Name="_3_G0" StrokeThickness="0.5" StrokeDashCap="Square" StrokeEndLineCap="Square" StrokeStartLineCap="Square"
+					Data="F0 M9 744 L96 744 A76.5 76.5 -180 0 0 96 816 L9 816 A76.5 76.5 0 0 1 9 744 Z">
+				<Path.Stroke>
+					<SolidColorBrush Color="#FFC8C8C8"/>
+				</Path.Stroke>
+				<Path.Fill>
+					<SolidColorBrush Color="#FF5B9BD5"/>
+				</Path.Fill>
+			</Path>
+		</Canvas>
+	</Canvas>
+</Canvas>
